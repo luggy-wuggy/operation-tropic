@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voiceassistant-1570325483123",
+  "private_key_id": "cbe08d05aac5e5718f2f73db8d777e4c4c08affe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC32g2foFvYFGZo\n6gyGq2b4yl0ChsRyjvN8j6O3aO4OBvE3FgQMACMTZYPVUIO+WAnH0F6oCeiuEzHL\nV9J9GbprNOj+flidhV9F0um9SUWnqS3ZDEGGJjLu1fF3CRY+rgsQyzl5UO7WfKnZ\nFPkkuTDHFzTc9Bnfo7a1YLGHJpe0nzPGV7yvBjcRr6l6mPa3/V32l+SeF9nuulZ/\nBYPd6MhWUVV4hMyOnrOlJF6MVguxaqWeBDQCzbG+nMD1Rs81IzRd4zqOjNJnMWR5\n7d/ifubPWg1tAQvLewrEedJzZ0r3z6mFuVEADjoYDCm2ncp0f4dSzME1m7aJu0bI\nxW6v6DQlAgMBAAECggEAAIDFvduq6semr26m+NtLhXYev+EX9NOi29HXyf1tBTIv\n31MyUOcW5i8zjTYjfecM6J+mIfHjs5IbfcFNkQ4WGRbJTw49LPn6v+Jgn7jLjj4v\n4v/cEfnn7SavBgwhmMIopVO/1wWAJrqFnkRyM8QfaqU1Pc3QZ+WLsvFQJsvwGixj\n92TPkKsbHP9a94OQ1bqByYwYFcJ68xLBFHfGTX2ogChnDn0TzacNAsas/N56BBPM\nkD2sfzDCGOihXJKOrsK8hRZUMTWS669xcNYqPUoxqxmSWwAzO8O2kxU7uGpq8um/\nKbqpLQ3iq/yUWG1b2+V98ISdFlz9slQ32cKIQCtl6QKBgQDvkYQtn8hLq4vcIcYx\nwb6NZvIipEPAkLGP+xjAUwJNBgEnRk70jwvrlfZZjlFg/T79wyA056MTTCdqpYgY\nRSFkNaY1PuJr/96ZH2UZbIEyeH8tuPXSM5SFBTRIo9xbUkckpszMrcwIJxItm8l7\ndxK6pXBvx8U16p0arOSZDnvoDQKBgQDEdjslpiqZruniUb5DNV/GuIGlNe4LhIsb\nkQt43CV1t/XCz9KJlldnSRejrSw9aEiN/onWcT3Ras5PB8hYIQWBt5+ohNh3y7rr\ntSBhnsvxBFszNFpWjgu0YCmp+Ss4qLfhr15H4fhYdkarc3ROip+nespKMpTOOf+e\ngOib2z4eeQKBgHkus5zciVX1pZ6pmvbKWVhvraXmT7tVtevuCRwoIS7TDbxPLVs6\nDL6TsfSlL/cOw1Fb5au9TFlTmVCyAQC932EwXi3q7F/TI0dzgRF2OHhOSY7YU8iL\nfOI4urTP5oRvPzuEAG68r0ukb+aQOj/xAJFXZGO2usRGNEgtEsl1cSn1AoGAW0+I\nVgtRKXS+h83uXFZmWXpP53WVWg0Uio9zgYzwbDJAK3dkJ0aVARBbyFsogLIDZtuz\nPNQNI1Q850Z6u1s9r/ikYDK+WY97JSpeDoE70J1xte7TPf9vOTqoorOIfyELtf1I\nGKjSQGtYlT9oA0kywyiy9KFlwCP8xrKraiUQTiECgYEAh8yHBPoaGYiwBqMBHYf4\n7ApjFob9cRieA9XyKuoOVxv2S6bKH2/M2+4JGh6OzwVvoKm0bMaD2frTWL18TPxL\nkwl6pdBt62+ZWoKRxeGcaOCBGvQSc+Y/YYrGi05bRLn959R16Wf5L3ABXa9Amr/j\nMrLll+Mt4grulFPGFUOfmO4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "luqman@voiceassistant-1570325483123.iam.gserviceaccount.com",
+  "client_id": "100176471933445407821",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/luqman%40voiceassistant-1570325483123.iam.gserviceaccount.com"
+}
